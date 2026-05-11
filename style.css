@@ -30,7 +30,10 @@ height: 200vh;
 
 }
 .banner-text h1{
-    font-size: 130px;
+    font-size: 2rem;
+    width:100%;
+    word-wrap:break-word;
+    text-align:center;
 
 }
 .banner-text p1{
